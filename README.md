@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Coby Alvarez</h1>
+<h1 align="center">Hello 👋, I'm Coby Alvarez</h1>
 <h3 align="center">A passionate eager to grow Software Engineer</h3>
 
 - 📫 How to reach me **coby.alvarez13@gmail,.com**
