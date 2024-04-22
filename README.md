@@ -1,6 +1,10 @@
 <h1 align="center">Hello 👋, I'm Coby Alvarez</h1>
 <h3 align="center">A passionate eager to grow Software Engineer</h3>
 
+-  🌱 I’m currently practicing python, java, HTML, javascript, C++ and other languages to enhance my skills
+
+- 💞️ I’m looking to gain more experience and sharpen my skills through collaboration
+
 - 📫 How to reach me: **coby.alvarez13@gmail,.com**
 
 - ⚡ Fun fact: **I love to tackle new coding projects and learn new skills any chance I get. I also love going to the gym and watching anime in my free time.**
