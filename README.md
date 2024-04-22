@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Coby Alvarez</h1>
 <h3 align="center">A passionate eager to grow Software Engineer</h3>
 
-- 📫 How to reach me **coby.alvarez13@gmail,.com**
+- 📫 How to reach me: **coby.alvarez13@gmail,.com**
 
-- ⚡ Fun fact **I love to tackle new coding projects and learn new skills any chance I get. I also love going to the gym and watching anime in my free time.**
+- ⚡ Fun fact: **I love to tackle new coding projects and learn new skills any chance I get. I also love going to the gym and watching anime in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
