@@ -6,6 +6,7 @@
 - 💞️ I’m looking to gain more experience and sharpen my skills through collaboration
 
 - 📫 How to reach me: **coby.alvarez13@gmail,.com**
+- Portfolio: https://cobyalvarez.github.io/github-portfolio/ 
 
 - ⚡ Fun fact: **I love to tackle new coding projects and learn new skills any chance I get. I also love going to the gym and watching anime in my free time.**
 
